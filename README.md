@@ -2,4 +2,4 @@
 Developed with Unity
 
 # Example
-![Demo Getting Started for Unity 3D](example.jpg)
+![Demo Getting Started for Unity 3D](example.png)
